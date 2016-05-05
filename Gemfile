@@ -26,6 +26,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # A better server than WEBrick
 gem 'thin'
 
+gem 'starter_generators'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
